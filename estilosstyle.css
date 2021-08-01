@@ -17,13 +17,17 @@ main {
 }
 
 h1 {
-    font-size: 1.5em;
+    font-size: 2em;
     color:rgb(50, 0, 112)
 }
 
 h2 {
-    font-size: 1.2em;
+    font-size: 1.5em;
     color:rgb(50, 0, 112)
+}
+
+img.lado {
+    float: right;
 }
 
 a {
